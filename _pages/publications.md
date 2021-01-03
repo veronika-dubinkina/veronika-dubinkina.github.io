@@ -30,7 +30,8 @@ Owen Howell, <strong>Wenping Cui</strong>, Robert Marsland III, and Pankaj Mehta
 
 * Effect of resource dynamics on species packing in diverse ecosystems. <br>
 <strong><U>Wenping Cui</U></strong>, Robert Marsland III, Pankaj Mehta <br>
-<span style="color:#4285F4">[Phys. Rev. Lett. 125, 048101 (2020)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.048101) (Editors’ Suggestion, Featured in <span style="color:#4285F4">[Physics magazine](https://physics.aps.org/articles/v13/s96))</span>
+<span style="color:#4285F4">[Phys. Rev. Lett. 125, 048101 (2020)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.048101)</span>  Editors’ Suggestion,  see also the synopsis in Physics Magazine: <span style="color:#4285F4">[Resource
+Dynamics Dictate Diversity](https://physics.aps.org/articles/v13/s96))</span>
 
 * The Community Simulator: A Python package for microbial ecology. <br>
 Robert Marsland III, <strong>Wenping Cui</strong>, Joshua Goldford, and Pankaj Mehta <br>
