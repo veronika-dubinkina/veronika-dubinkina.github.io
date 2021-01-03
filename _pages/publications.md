@@ -5,11 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-{if author.googlescholar }
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{ endif }
-
-{% include base_path %}
+# <span style="color:#4285F4">[Google Scholar](https://scholar.google.com/citations?user=k6I_USQAAAAJ&hl=en)</span>
 
 Preprint
 ======
