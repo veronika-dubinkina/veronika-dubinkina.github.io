@@ -89,3 +89,20 @@ Mingda Li, <strong>Wenping Cui</strong>, Lijun Wu, Qingping Meng, Yimei Zhu, Yon
 * Transient Accelerating Scalar Models with Exponential Potential. <br>
 <strong><U>Wenping Cui</U></strong>, Yang Zhang, Zhengwen Fu <br>
 <span style="color:#4285F4">[Res. Astron. Astrophys. 13, 629 (2013).](http://m.iopscience.iop.org/1674-4527/13/6/002) </span>
+
+<!-- Default Statcounter code for Publications
+https://wenping-cui.github.io//publications/ -->
+<script type="text/javascript">
+var sc_project=12455480; 
+var sc_invisible=1; 
+var sc_security="8ce1a982"; 
+</script>
+<script type="text/javascript"
+src="https://www.statcounter.com/counter/counter.js"
+async></script>
+<noscript><div class="statcounter"><a title="Web Analytics"
+href="https://statcounter.com/" target="_blank"><img
+class="statcounter"
+src="https://c.statcounter.com/12455480/0/8ce1a982/1/"
+alt="Web Analytics"></a></div></noscript>
+<!-- End of Statcounter Code -->
