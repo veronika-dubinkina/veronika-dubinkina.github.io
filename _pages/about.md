@@ -22,3 +22,22 @@ Cells, the basic unit of life, perform complex computations to do environmental 
 Random Matrix Theory in Biological Data Analysis
 ------
 Biological measurement is always accompanied by noise, especially when using high throughput single-cell technologies. It is essential to filter noise before inferring meaningful signals. The information-plus-noise matrix in random matrix theory can well describe this problem. The noise can be filtered by comparing the eigenvalue structure of biological data with spectrums predicted by theories.  Furthermore, the presence of the signal depends on if its strength is above a certain threshold. Thoroughly understanding this threshold will completely characterize the fundamental limits in inferring signals, which is exciting to explore.
+
+
+<!-- Default Statcounter code for Github webpage
+https://wenping-cui.github.io/ -->
+<script type="text/javascript">
+var sc_project=12455467; 
+var sc_invisible=1; 
+var sc_security="4f402f9f"; 
+</script>
+<script type="text/javascript"
+src="https://www.statcounter.com/counter/counter.js"
+async></script>
+<noscript><div class="statcounter"><a title="Web Analytics
+Made Easy - StatCounter" href="https://statcounter.com/"
+target="_blank"><img class="statcounter"
+src="https://c.statcounter.com/12455467/0/4f402f9f/1/"
+alt="Web Analytics Made Easy -
+StatCounter"></a></div></noscript>
+<!-- End of Statcounter Code -->
