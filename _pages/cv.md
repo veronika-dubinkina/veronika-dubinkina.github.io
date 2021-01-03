@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-<span style="color:#4285F4">[PDF Version](http://https://wenping-cui.github.io/files/CV_WCui2) 
+<span style="color:#4285F4">[PDF Version](http://https://wenping-cui.github.io/files/CV_WCui2.pdf) 
 
 Education
 ======
