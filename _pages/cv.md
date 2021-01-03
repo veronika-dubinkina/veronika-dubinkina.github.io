@@ -22,7 +22,7 @@ Education
   * Advisor: Thomas Nattermann
   * Thesis title: A variational study of two and three-dimensional melting
 
-* B.S., Astrophysic, University of Science and Technology of China, 2007 – 2011
+* B.S., Astrophysics, University of Science and Technology of China, 2007 – 2011
   * Advisor: Yang Zhang
   * Thesis title: Transient Accelerating Scalar Models with Exponential
 

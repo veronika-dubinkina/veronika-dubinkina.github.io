@@ -64,7 +64,7 @@ Previous
 ======
 * Electron energy can oscillate near a crystal dislocation. <br>
 Mingda Li, <strong>Wenping Cui</strong>, M. S. Dresselhaus, Gang Chen <br>
-<span style="color:#4285F4">[New J. Phys. 19, 013033(2017).](http://iopscience.iop.org/article/10.1088/1367-2630/aa5710/meta) </span>
+<span style="color:#4285F4">[New J. Phys. 19, 013033 (2017).](http://iopscience.iop.org/article/10.1088/1367-2630/aa5710/meta) </span>
 
 * Proximity Driven Enhanced Magnetic Order at Ferromagnetic Insulator/Magnetic Topological Insulator Interface. <br>
 Mingda Li, Cui-Zu Chang, Brian Kirby, Michelle Jamer, <strong>Wenping Cui</strong>, Lijun Wu, Yimei Zhu, Don Heiman, Ju Li, Jagadeesh Moodera <br>
