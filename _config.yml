@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "崔文平"
+title                    : "Wenping Cui"
 title_separator          : "-"
 name                     : &name "Wenping Cui"
 description              : &description "PhD candidate at Boston College"
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Wenping Cui"
-  avatar           : "profile.png"
+  name             : "崔文平"
+  avatar           : "profile_wc.png"
   bio              : "PhD candidate at Boston College"
-  location         : "Boston"
+  location         : "Boston, MA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=k6I_USQAAAAJ&hl=en"
