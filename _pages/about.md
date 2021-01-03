@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My research interests lie at the interface between biology and physics. I am especially interest in identifying general principles governing living organisms.
+My research interests lie at the interface between biology and physics. I am especially interest in identifying general principles governing living organisms with insights from statistical mechanics.
 
 Large Complex Ecosystems
 ======
