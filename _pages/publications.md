@@ -62,7 +62,7 @@ Robert Marsland III, <strong>Wenping Cui</strong>, Joshua Goldford, Alvaro Sanch
 <strong>Wenping Cui</strong>, Pankaj Mehta <br>
 <span style="color:#4285F4">[PloS one 13.8 (2018): e0202331.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0202331) </span>
 
-Previous
+Before 2018
 ======
 * Electron energy can oscillate near a crystal dislocation. <br>
 Mingda Li, <strong>Wenping Cui</strong>, M. S. Dresselhaus, Gang Chen <br>
