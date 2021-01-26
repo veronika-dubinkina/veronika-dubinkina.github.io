@@ -15,15 +15,15 @@ redirect_from:
 Education
 ======
 * Ph.D., Theoretical Physics, Boston College, 2014 – 2021
-  * Advisor: Pankaj Mehta
+  * Advisor: [Pankaj Mehta](http://physics.bu.edu/~pankajm/)
   * Thesis title: Statistical mechanics of complex ecosystems
 
 * M.S., Theoretical Physics, Universität Bonn, 2011 – 2014
-  * Advisor: Thomas Nattermann
+  * Advisor: [Thomas Nattermann](http://www.thp.uni-koeln.de/natter/index.html)
   * Thesis title: A variational study of two and three-dimensional melting
 
 * B.S., Astrophysics, University of Science and Technology of China, 2007 – 2011
-  * Advisor: Yang Zhang
+  * Advisor: [Yang Zhang](http://dsxt.ustc.edu.cn/zj_js.asp?zzid=169)
   * Thesis title: Transient Accelerating Scalar Models with Exponential
 
 Awards & Honors
