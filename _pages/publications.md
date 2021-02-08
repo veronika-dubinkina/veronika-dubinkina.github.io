@@ -58,7 +58,7 @@ Robert Marsland III, <strong>Wenping Cui</strong>, Joshua Goldford, Alvaro Sanch
 
 2018
 ======
-* Available energy fluxes drive a phase transition in the diversity, stability, and functional structure of microbial communities. <br>
+* Identifying feasible operating regimes for early T-cell recognition: The speed, energy, accuracy trade-off in kinetic proofreading and adaptive sorting. <br>
 <strong>Wenping Cui</strong>, Pankaj Mehta <br>
 <span style="color:#4285F4">[PloS one 13.8 (2018): e0202331.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0202331) </span>
 
