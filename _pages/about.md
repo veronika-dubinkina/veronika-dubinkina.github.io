@@ -8,6 +8,9 @@ redirect_from:
   - /about.html
 ---
 
+Good News: I have finished my defense on April 16, 2021 and will start my postdoc at [KITP](https://www.kitp.ucsb.edu/) in June.
+======
+
 My research lies at the interface between biology and physics. I am especially interested in identifying general principles governing living organisms using insights from statistical mechanics.
 
 Large Complex Ecosystems
