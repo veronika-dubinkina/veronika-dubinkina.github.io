@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-======
+
 
 My research lies at the interface between biology and physics. I am especially interested in identifying general principles governing living organisms using insights from statistical mechanics.
 
