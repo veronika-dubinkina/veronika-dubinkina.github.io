@@ -15,11 +15,11 @@ redirect_from:
 
 Education
 ======
-* Ph.D., Theoretical Physics, Boston College, 2014 – 2021
+* Ph.D., Physics, Boston College, 2014 – 2021
   * Advisor: [Pankaj Mehta](http://physics.bu.edu/~pankajm/)
   * Thesis title: Statistical mechanics of microbiomes
   
-* M.S., Theoretical Physics, Universität Bonn, 2011 – 2014
+* M.S., Physics, Universität Bonn, 2011 – 2014
   * Advisor: [Thomas Nattermann](http://www.thp.uni-koeln.de/natter/index.html)
   * Thesis title: A variational study of two and three-dimensional melting
 
