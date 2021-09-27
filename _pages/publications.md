@@ -13,10 +13,13 @@ Preprint
 <strong><U>Wenping Cui</U></strong>, Jason W. Rocks, and Pankaj Mehta <br>
 <span style="color:#4285F4">[arXiv:2012.00663.](https://arxiv.org/abs/2012.00663)</span>
 
+<br>
+
+2021
+======
 * Diverse communities behave like typical random ecosystems. <br>
 <strong><U>Wenping Cui</U></strong>, Robert Marsland III, Pankaj Mehta <br>
-<span style="color:#4285F4">[arXiv:1904.02610.](https://arxiv.org/abs/1904.02610)</span>
-<br>
+<span style="color:#4285F4">[Phys. Rev. E 104, 034416 (2021)](https://link.aps.org/doi/10.1103/PhysRevE.104.034416)</span>
 
 2020
 ======
