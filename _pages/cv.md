@@ -50,3 +50,20 @@ tutorial on WGS metagenomic data analysis
 * Since 2019 Mentoring students on “Science” career track through Phystech Union mentorship program
 
 * Reviewed manuscripts for Journal of Gastroenterology and Hepatology, Bioinformatics, PLOS Computational Biology, Journal of Oral Microbiology, Physical Review E, Current Genetics, Nature Communications.
+
+<!-- Default Statcounter code for CV
+https://wenping-cui.github.io//cv/ -->
+<script type="text/javascript">
+var sc_project=12455484; 
+var sc_invisible=1; 
+var sc_security="3361e7aa"; 
+</script>
+<script type="text/javascript"
+src="https://www.statcounter.com/counter/counter.js"
+async></script>
+<noscript><div class="statcounter"><a title="web statistics"
+href="https://statcounter.com/" target="_blank"><img
+class="statcounter"
+src="https://c.statcounter.com/12455484/0/3361e7aa/1/"
+alt="web statistics"></a></div></noscript>
+<!-- End of Statcounter Code -->
