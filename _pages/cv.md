@@ -47,7 +47,7 @@ tutorial on consumer-resource models
 * 2016: Workshop “NGS data analysis”,
 tutorial on WGS metagenomic data analysis
 
-* Since 2019 Mentoring students on “Science” career track through Phystech Union mentorship program
+* Mentoring students on “Science” career track through Phystech Union mentorship program since 2019
 
 * Reviewed manuscripts for Journal of Gastroenterology and Hepatology, Bioinformatics, PLOS Computational Biology, Journal of Oral Microbiology, Physical Review E, Current Genetics, Nature Communications.
 
