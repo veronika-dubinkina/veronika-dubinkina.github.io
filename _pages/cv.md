@@ -11,30 +11,28 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Applied Mathematics and Physics, Moscow Institute of Physics and Technology, 2013
+  * Advisor: Prof. Roman Efremov
+  * Thesis title: Computer modeling of structure and dynamics of lipid bilayer simulating bacterial membrane.  
+* M.S. in Applied Mathematics and Physics, Moscow Institute of Physics and Technology, 2015
+  * Advisors: Prof. Dmitry Alexeev, Dr. Alexander Tyakht
+  * Thesis title: Development of a method to evaluate the diversity of metagenomes from the human intestinal microbiome on the basis of a k-mer approach. 
+* Ph.D in Bioengineering, University of Illinois Urbana-Champaign, 2022
+  * Advisor: Prof. Sergei Maslov
+  * Thesis title: Mechanistic modeling of complex microbial communities.
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2022-present: Bioinformatics Fellow
+  * Gladstone Institutes, San Francisco, US
+  * I work on development of bioinformatic pipelines for metagenome-wide association studies (MWAS). I also study eco-evolutionary forces that shape human gut microbiome via strain level analysis of taxonomic and functional structure of the community.
+  * Supervisor: Prof. Pollard
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2022-present: Research Affiliate
+  * Institute for Sustainability, Energy, and Environment, Urbana-Champaign, US
+  * As a continuation of my work for CABBI, I perform bioinformatic analysis of multi-omics data for novel yeast species with an aim of discovering genes involved in low pH tolerance and antimicrobial drug resistance.
+  * Supervisor: Prof. Maslov
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
