@@ -11,15 +11,18 @@ redirect_from:
 
 Education
 ======
-* B.S. in Applied Mathematics and Physics, Moscow Institute of Physics and Technology, 2013
-  * Advisor: Prof. Roman Efremov
-  * Thesis title: Computer modeling of structure and dynamics of lipid bilayer simulating bacterial membrane.  
-* M.S. in Applied Mathematics and Physics, Moscow Institute of Physics and Technology, 2015
-  * Advisors: Prof. Dmitry Alexeev, Dr. Alexander Tyakht
-  * Thesis title: Development of a method to evaluate the diversity of metagenomes from the human intestinal microbiome on the basis of a k-mer approach. 
 * Ph.D in Bioengineering, University of Illinois Urbana-Champaign, 2022
-  * Advisor: Prof. Sergei Maslov
+  * Advisor: Prof. [Sergei Maslov] (https://maslov.bioengineering.illinois.edu/)
   * Thesis title: Mechanistic modeling of complex microbial communities.
+
+* M.S. in Applied Mathematics and Physics, Moscow Institute of Physics and Technology, 2015
+  * Advisors: Dr. Dmitry Alexeev, Dr. Alexander Tyakht
+  * Thesis title: Development of a method to evaluate the diversity of metagenomes from the human intestinal microbiome on the basis of a k-mer approach. 
+
+* B.S. in Applied Mathematics and Physics, Moscow Institute of Physics and Technology, 2013
+  * Advisor: [Prof. Roman Efremov] (https://model.nmr.ru/?page=about.cv.efremov-cv)
+  * Thesis title: Computer modeling of structure and dynamics of lipid bilayer simulating bacterial membrane.  
+
 
 Work experience
 ======
