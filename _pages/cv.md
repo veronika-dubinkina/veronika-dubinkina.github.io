@@ -32,12 +32,12 @@ Work experience
 * 2022-present: Bioinformatics Fellow
   * Gladstone Institutes, San Francisco, US
   * I work on development of bioinformatic pipelines for metagenome-wide association studies (MWAS). I also study eco-evolutionary forces that shape human gut microbiome via strain level analysis of taxonomic and functional structure of the community.
-  * Supervisor: Prof. Pollard
+  * Supervisor: Prof. Katie Pollard
 
 * 2022-present: Research Affiliate
   * Institute for Sustainability, Energy, and Environment, Urbana-Champaign, US
   * As a continuation of my work for CABBI, I perform bioinformatic analysis of multi-omics data for novel yeast species with an aim of discovering genes involved in low pH tolerance and antimicrobial drug resistance.
-  * Supervisor: Prof. Maslov
+  * Supervisor: Prof. Sergei Maslov
   
 Community service and outreach
 ======
