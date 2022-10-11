@@ -46,9 +46,40 @@ Goyal, A., Wang, T., <strong>Dubinkina, V.,</strong> Maslov, S. (2021) <br>
 Wang, T., Goyal, A., <strong>Dubinkina, V.,</strong> Maslov, S. <br>
 [PLOS Computational Biology, 15(12): e1007524.](https://doi.org/10.1371/journal.pcbi.1007524)
 
-Multistability and regime shifts in microbial communities explained by competition for essential nutrients. <br>
+* Multistability and regime shifts in microbial communities explained by competition for essential nutrients. <br>
 <strong>Dubinkina, V.*,</strong> Fridman, Y.*, Pandey, P. P.*, & Maslov, S. <br>
 [eLife, 8.](https://doi.org/10.7554/eLife.49720)
+
+2018
+======
+
+* Multiple stable states in microbial communities explained by the stable marriage problem. <br>
+Goyal, A.*, <strong>Dubinkina, V.*,</strong> & Maslov, S. <br>
+[The ISME journal, 12(12), 2823.](https://doi.org/10.1038/s41396-018-0222-x)
+
+2017
+======
+
+* Links of gut microbiota composition with alcohol dependence syndrome and alcoholic liver disease. <br>
+<strong>Dubinkina, V. B.*,</strong>, Tyakht, A. V.*, Odintsova, V. Y., Yarygin, K. S., Kovarsky, B. A., Pavlenko, A. V., ... & Nasyrova, R. F. <br>
+[Microbiome, 5(1), 141.](https://doi.org/10.1186/s40168-017-0359-2)
+
+* Data on gut metagenomes of the patients with alcoholic dependence syndrome and alcoholic liver cirrhosis. <br>
+Tyakht, A. V., <strong>Dubinkina, V. B.,</strong>, Odintsova, V. Y., Yarygin, K. S., Kovarsky, B. A., Pavlenko, A. V., ... & Nasyrova, R. F. <br>
+[Data in Brief, 11, 98-102.](https://doi.org/10.1016/j.dib.2017.01.008)
+
+2016
+========
+
+* MetaFast: fast reference free graph-based comparison of shotgut metagenomic data. <br>
+Ulyantsev, V. I., Kazakov S. V., <strong>Dubinkina, V. B.,</strong> Tyakht, A. V., & Alexeev, D. G. <br>
+[Bioinformatics, 1-9.](https://doi.org/10.1093/bioinformatics/btw312)
+
+* Assessment of k-mer spectrum applicability for metagenomic dissimilarity analysis. 
+<strong>Dubinkina, V. B.,</strong> Ischenko, D. S., Ulyantsev, V. I., Tyakht, A. V., & Alexeev, D. G. (2016).  
+[BMC bioinformatics, 17(1), 1.](https://doi.org/10.1186/s12859-015-0875-7)
+
+
 
   <!-- Default Statcounter code for Publications
 https://veronika-dubinkina.github.io//publications/ -->
