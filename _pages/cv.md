@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+<span style="color:#4285F4">[PDF Version](/files/Veronika_CV_academic.pdf) 
+
+
 Education
 ======
 * Ph.D in Bioengineering, University of Illinois Urbana-Champaign, 2022
@@ -38,8 +41,8 @@ Work experience
   
 Community service and outreach
 ======
-* 2022: Workshop “Modeling Microbial Ecology at Multiple Scales”,
-tutorial on consumer-resource models (https://modelmems.github.io/)
+* 2022: Workshop [“Modeling Microbial Ecology at Multiple Scales”](https://modelmems.github.io/),
+tutorial on consumer-resource models 
 
 * 2016: Workshop “NGS data analysis”,
 tutorial on WGS metagenomic data analysis
