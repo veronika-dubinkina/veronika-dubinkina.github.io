@@ -5,17 +5,18 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{[author.googlescholar](https://scholar.google.com/citations?user=Td1pQmIAAAAJ&hl=en)}}">my Google Scholar profile</a>.</u>
-{% endif %}
+You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=Td1pQmIAAAAJ&hl=en).
 
 
 2021
 ======
 A cross-study analysis of drug response prediction in cancer cell lines. <br>
-Xia, F., Allen, J., Balaprakash, P., Brettin, T., Garcia-Cardona, C., Clyde, A., Cohn, J., Doroshow, J., Duan, X., <strong>Dubinkina, V.,<strong> ... & Stevens, R. <br>
+Xia, F., Allen, J., Balaprakash, P., Brettin, T., Garcia-Cardona, C., Clyde, A., Cohn, J., Doroshow, J., Duan, X., <strong>Dubinkina, V.,</strong> ... & Stevens, R. <br>
 Briefings in Bioinformatics, 23(1), bbab356.
 
+Complementary resource preferences spontaneously emerge in diauxic microbial communities. <br>
+Wang, Z., Goyal, A., <strong>Dubinkina, V.,</strong> George, A. B., Wang, T., Fridman, Y., & Maslov, S. <br>
+Nat Commun 12, 6661.
   
   <!-- Default Statcounter code for Publications
 https://veronika-dubinkina.github.io//publications/ -->
