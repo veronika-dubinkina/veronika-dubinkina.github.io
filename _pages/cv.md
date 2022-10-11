@@ -15,7 +15,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Bioengineering, University of Illinois Urbana-Champaign, 2022
-  * Advisor: Prof. [Sergei Maslov] (https://maslov.bioengineering.illinois.edu/)
+  * Advisor: [Prof. Sergei Maslov] (https://maslov.bioengineering.illinois.edu/)
   * Thesis title: Mechanistic modeling of complex microbial communities.
 
 * M.S. in Applied Mathematics and Physics, Moscow Institute of Physics and Technology, 2015
