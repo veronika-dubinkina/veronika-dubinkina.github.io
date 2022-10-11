@@ -33,25 +33,20 @@ Work experience
   * As a continuation of my work for CABBI, I perform bioinformatic analysis of multi-omics data for novel yeast species with an aim of discovering genes involved in low pH tolerance and antimicrobial drug resistance.
   * Supervisor: Prof. Maslov
   
+# Teaching
+# ======
+# <ul>{% for post in site.teaching %}
+#    {% include archive-single-cv.html %}
+#  {% endfor %}</ul>
+  
+Community service and outreach
+======
+* 2022: Workshop “Modeling Microbial Ecology at Multiple Scales”,
+tutorial on consumer-resource models (https://modelmems.github.io/)
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* 2016: Workshop “NGS data analysis”,
+tutorial on WGS metagenomic data analysis
+
+* Since 2019 Mentoring students on “Science” career track through Phystech Union mentorship program
+
+* Reviewed manuscripts for Journal of Gastroenterology and Hepatology, Bioinformatics, PLOS Computational Biology, Journal of Oral Microbiology, Physical Review E, Current Genetics, Nature Communications.
